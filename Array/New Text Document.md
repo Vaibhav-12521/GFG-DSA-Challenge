@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=second-largest-problem" alt="visitor badge"/>
-</p>
+
 
 # Second Largest Element in an Array
 
@@ -80,3 +78,7 @@ class Solution:
                 second = num
 
         return -1 if second == float('-inf') else second
+```
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=second-largest-problem" alt="visitor badge"/>
+</p>
