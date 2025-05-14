@@ -80,6 +80,6 @@ class Solution:
         return -1 if second == float('-inf') else second
 ```
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hunterdii/count.svg" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=visitor-badge.glitch.me">
 </p>
 
